@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A passionate developer from Czechia</h3>
-
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Ffunny-smurfs-gifs&psig=AOvVaw0MLYTChdm0fXPtm6JodxSA&ust=1694610130631000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCOjStpyRpYEDFQAAAAAdAAAAABAD)
 - 🔭 I’m currently working on: **nothing**
 
 - 🌱 I’m currently learning: **Java, Javascript**
